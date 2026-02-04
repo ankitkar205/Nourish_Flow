@@ -14,8 +14,7 @@ Agents are the right solution because this specific use case requires a system t
 1.  **Negotiate Constraints:** A user might say "I want a feast," but reality says "You have 20 minutes." An agent can autonomously detect this conflict via tools and override the request to provide a realistic solution.
 2.  **Perceive Reality:** Using Multimodal Agents (Vision), the system can "see" what is actually in the fridge rather than relying on the user to type out a list.
 3.  **Execute Tasks:** Unlike a chatbot that just talks, a Concierge Agent performs work. In this case, it parses unstructured culinary advice into a structured, downloadable shopping list, saving the user manual effort.
-
-### What you created
+
 I built **NourishFlow**, a **Sequential Multi-Agent System** powered by **Gemini 2.0 Flash**. The architecture is designed as a Hub-and-Spoke model to ensure modularity and distinct separation of concerns.
 
 **The Architecture Breakdown:**
